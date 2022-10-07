@@ -1,4 +1,4 @@
-# Air-Canvas-project
+# virtual-sketch-project
 Computer vision project implemented with OpenCV
 
 Ever wanted to draw your imagination by just waiving your finger in air. In this post we will learn to build an Air Canvas which can draw anything on it by just capturing the motion of a coloured marker with camera. Here a coloured object at tip of finger is used as the marker.
@@ -18,4 +18,4 @@ Here Colour Detection and tracking is used in order to achieve the objective. Th
 
 Requirements: python3 , numpy , opencv installed on your system.
 
-<img src="https://raw.githubusercontent.com/infoaryan/Air-Canvas-project/master/Screenshots/sample_project_img1.png" width="800" height="400">
+< src="https://raw.githubusercontent.com/infoaryan/Air-Canvas-project/master/Screenshots/sample_project_img1.png" width="800" height="400">
